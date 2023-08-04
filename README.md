@@ -1,16 +1,16 @@
+![Header](./my_banner.png)
+
+
 ### Hi there 👋
 
-<!--
-**Stperrakis/Stperrakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Stelios - M.Sc. Student in Computer Science
 
-Here are some ideas to get you started:
+Hey there! 👋 Welcome to my GitHub profile! I'm Stelios, a passionate M.Sc. student in Computer Science with a focus on deep learning, computer vision, and image processing. 🎓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm deeply intrigued by the wonders of artificial intelligence, especially when it comes to unraveling patterns and insights from visual data. My journey in computer science has been a thrilling adventure, where I've dived headfirst into the captivating realms of deep learning algorithms, computer vision techniques, and image processing methodologies.
+
+
+- 📫 How to reach me: stylperr@gmail.com
+- Happy coding! 🚀
