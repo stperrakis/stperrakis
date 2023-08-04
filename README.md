@@ -5,7 +5,7 @@ Hey there! 👋 Welcome to my GitHub profile! I'm Stelios, a passionate M.Sc. st
 
 
 How to reach me: 
-- ✉️  **E-mail:** [e-mail address](mailto:stylperr@gmail.com)
-- 💼 **LinkedIn:** [LinkedIn profile](https://www.linkedin.com/in/perrakis/)
+- ✉️  **E-mail:** [stylperr](mailto:stylperr@gmail.com)
+- 💼 **LinkedIn:** [Stylianos Perrakis](https://www.linkedin.com/in/perrakis/)
 
 Happy coding! 🚀
