@@ -4,5 +4,10 @@ Hey there! 👋 Welcome to my GitHub profile! I'm Stelios, a passionate M.Sc. st
 
 
 
-How to reach me: stylperr@gmail.com
-- Happy coding! 🚀
+How to reach me: 
+📧 Email: stylperr@gmail.com
+💼 LinkedIn: [linkedin.com/in/perrakis/](https://www.linkedin.com/in/perrakis/)
+
+
+
+Happy coding! 🚀
