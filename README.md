@@ -4,8 +4,8 @@ Hey there! 👋 Welcome to my GitHub profile! I'm Stelios, a passionate M.Sc. st
 
 ## About Me
 
-I'm deeply intrigued by the wonders of artificial intelligence, especially when it comes to unraveling patterns and insights from visual data. My journey in computer science has been a thrilling adventure, where I've dived headfirst into the captivating realms of deep learning algorithms, computer vision techniques, and image processing methodologies.
+I'm deeply intrigued by artificial inteligence especially on visual data.
 
 
-- 📫 How to reach me: stylperr@gmail.com
+How to reach me: stylperr@gmail.com
 - Happy coding! 🚀
