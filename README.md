@@ -18,15 +18,15 @@ Hey there! 👋 Welcome to my GitHub profile! I'm Stelios, a passionate M.Sc. st
   </a>
   
   <a href="https://github.com/stperrakis/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stperrakis&hide_progress=false&layout=donut&theme=tokyonight&hide_border=true" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stperrakis&hide_progress=false&layout=donut&theme=transparent&hide_border=true" alt="Top Langs">
   </a>
   
   <a href="https://github.com/stperrakis/">
-    <img src="https://github-readme-stats.vercel.app/api?username=stperrakis&theme=tokyonight&count_private=true&show_icons=true&hide_title=true&hide_border=true" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=stperrakis&theme=transparent&count_private=true&show_icons=true&hide_title=true&hide_border=true" alt="GitHub Stats">
   </a>
   
   <a href="https://github.com/stperrakis/">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=stperrakis&theme=tokyonight&hide_title=true&hide_border=true" alt="Wakatime Stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=stperrakis&theme=transparent&hide_title=true&hide_border=true" alt="Wakatime Stats">
   </a>
    
 </p> 
