@@ -1,10 +1,9 @@
-<p align="center">
-  <img src="./my_banner.png" alt="Header">
-</p>
 
-<p align="center">
-  Hey there! 👋 Welcome to my GitHub profile! I'm Stelios, a passionate M.Sc. student in Computer Science with a focus on deep learning, computer vision, and image processing. 🎓
-</p>
+<img src="./my_banner.png" alt="Header">
+
+
+Hey there! 👋 Welcome to my GitHub profile! I'm Stelios, a passionate M.Sc. student in Computer Science with a focus on deep learning, computer vision, and image processing. 🎓
+
 
 <p align="center">
   <img src="/github-metrics.svg" alt="Metrics">
