@@ -7,9 +7,7 @@ Hey there! 👋 Welcome to my GitHub profile! I'm Stelios, a passionate M.Sc. st
 
 <p align="center">
   <img src="/github-metrics.svg" alt="Metrics">
-  <a href="https://github.com/stperrakis/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stperrakis&hide_progress=false&layout=donut&theme=tokyonight" alt="Top Langs">
-  </a>
+  
 </p>
 
 <h1 align="left">Activity :running:</h1>
@@ -18,7 +16,9 @@ Hey there! 👋 Welcome to my GitHub profile! I'm Stelios, a passionate M.Sc. st
   <a href="https://github.com/stperrakis/">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=stperrakis&theme=tokyonight&date_format=%5BY%20%5DM%20j" alt="GitHub Streak">
   </a>
-  
+  <a href="https://github.com/stperrakis/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stperrakis&hide_progress=false&layout=donut&theme=tokyonight" alt="Top Langs">
+  </a>
   <a href="https://github.com/stperrakis/">
     <img src="https://github-readme-stats.vercel.app/api?username=stperrakis&theme=tokyonight&count_private=true&show_icons=true&hide_title=true&hide_border=false" alt="GitHub Stats">
   </a>
