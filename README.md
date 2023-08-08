@@ -12,7 +12,6 @@ Hey there! 👋 Welcome to my GitHub profile! I'm Stelios, a passionate M.Sc. st
 
 <h1 align="left">Activity :running:</h1>
 
-<p align="center">
   <a href="https://github.com/stperrakis/">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=stperrakis&theme=tokyonight&date_format=%5BY%20%5DM%20j" alt="GitHub Streak">
   </a>
@@ -30,3 +29,6 @@ Hey there! 👋 Welcome to my GitHub profile! I'm Stelios, a passionate M.Sc. st
 <p align="center">
   Happy coding! 🚀
 </p>
+
+
+
