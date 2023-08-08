@@ -2,7 +2,7 @@
 <img src="./my_banner.png" alt="Header">
 
 
-Hey there! 👋 Welcome to my GitHub profile! I'm Stelios, a passionate M.Sc. student in Computer Science with a focus on deep learning, computer vision, and image processing. 🎓
+Hey there! 👋 Welcome to my GitHub profile! I'm Stelios.
 
 
 Profile Image: 🌌 Cat's Eye Nebula (NGC 65432)
