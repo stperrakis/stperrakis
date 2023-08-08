@@ -14,7 +14,7 @@ Hey there! 👋 Welcome to my GitHub profile! I'm Stelios, a passionate M.Sc. st
 <h1 align="left">Activity :running:</h1>
 <p align="left">
   <a href="https://github.com/stperrakis/">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=stperrakis&theme=transparent&date_format=%5BY%20%5DM%20j" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=stperrakis&theme=transparent&hide_border=true&date_format=%5BY%20%5DM%20j" alt="GitHub Streak">
   </a>
   
   <a href="https://github.com/stperrakis/">
