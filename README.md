@@ -8,7 +8,7 @@ Hey there! 👋 Welcome to my GitHub profile! I'm Stelios, a passionate M.Sc. st
 <p align="center">
   <img src="/github-metrics.svg" alt="Metrics">
   <a href="https://github.com/stperrakis/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stperrakis&hide_progress=true&layout=pie&theme=tokyonight" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stperrakis&hide_progress=false&layout=donut&theme=tokyonight" alt="Top Langs">
   </a>
 </p>
 
