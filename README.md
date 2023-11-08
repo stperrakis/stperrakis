@@ -35,7 +35,3 @@ Hey there! 👋 Welcome to my GitHub profile! I'm Stelios.
   Happy coding! 🚀
 </p>
 
-Profile Image: 🌌 Cat's Eye Nebula (NGC 65432)
-Check out the stunning Cat's Eye Nebula captured by ESA's space exploration efforts. 🚀🪐
-Find more details about it [here](https://www.esa.int/Science_Exploration/Space_Science/Cat_s_Eye_Nebula_NGC_65432?fbclid=IwAR0misytOAJCAP2vEbHz_aYzxiIFKPWxIKMM). 🌠
-
