@@ -1,9 +1,3 @@
-
-<img src="./my_banner.png" alt="Header">
-
-
-Hey there! 👋 Welcome to my GitHub profile! I'm Stelios.
-
 <p align="center">
   
   <img src="/github-metrics.svg" alt="Metrics">  
