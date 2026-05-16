@@ -18,10 +18,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=stperrakis&theme=transparent&count_private=true&show_icons=true&hide_title=true&hide_border=true&v=2" alt="GitHub Stats">
   </a>
   
-  <a href="https://github.com/stperrakis/">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=stperrakis&theme=transparent&hide_title=true&hide_border=true&v=2" alt="Wakatime Stats">
-  </a>
-   
 </p> 
 </p>
 
